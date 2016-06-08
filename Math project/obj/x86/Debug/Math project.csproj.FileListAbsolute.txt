@@ -1,0 +1,10 @@
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\bin\Debug\Math project.exe
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\bin\Debug\Math project.pdb
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math_project.Form1.resources
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math_project.Properties.Resources.resources
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math project.csproj.GenerateResource.Cache
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math project.exe
+c:\users\mfiliatreault\documents\visual studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math project.pdb
+C:\Users\mfiliatreault\Documents\Visual Studio 2010\Projects\Math project\Math project\obj\x86\Debug\Math project.csprojResolveAssemblyReference.cache
+C:\Users\mfiliatreault\Desktop\GitHub\Math project\Math project\obj\x86\Debug\Math project.exe
+C:\Users\mfiliatreault\Desktop\GitHub\Math project\Math project\obj\x86\Debug\Math project.pdb

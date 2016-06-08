@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math project", "Math project\Math project.csproj", "{C999076B-4FCD-4A01-9804-EC5E2C212671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C999076B-4FCD-4A01-9804-EC5E2C212671}.Debug|x86.ActiveCfg = Debug|x86
+		{C999076B-4FCD-4A01-9804-EC5E2C212671}.Debug|x86.Build.0 = Debug|x86
+		{C999076B-4FCD-4A01-9804-EC5E2C212671}.Release|x86.ActiveCfg = Release|x86
+		{C999076B-4FCD-4A01-9804-EC5E2C212671}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
